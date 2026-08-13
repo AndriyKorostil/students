@@ -1,0 +1,29 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Ivan Petrenko",
+      "age": 15,
+      "course": "Web Development",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "email": "ivan.petrenko@example.com",
+      "isEnrolled": true
+    },
+    {
+      "name": "Андрій",
+      "age": 15,
+      "course": "2",
+      "skills": [
+        "fwf2r32r"
+      ],
+      "email": "andriy220kor@gmail.com",
+      "isEnrolled": false,
+      "id": "Iylydj1GPE8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
